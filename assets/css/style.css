@@ -11,12 +11,15 @@ h1 {
 
 h2 {
     color: dodgerblue;
+    font-style: oblique;
+    font-size: 18pt;
 }
 
 .jumbotron {
     background-color: aliceblue;
     margin-top: 20px;
     border: 1px solid darkblue;
+    color: midnightblue;
 }
 
 .panel {
